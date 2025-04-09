@@ -1,10 +1,10 @@
-import './App.css'
+// import './App.css'
+
+import Home from "./pages/Home"
 
 const App = () => {
   return (
-    <p>
-      PORTFOLIO Matheus
-    </p>
+    <Home/>
   )
 }
 
